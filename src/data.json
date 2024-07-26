@@ -1,122 +1,23 @@
 [
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Qué situación reciente te hizo darte cuenta de que estabas tomando decisiones rápidas sin pensar demasiado en las consecuencias?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Cuál es una creencia arraigada que has descubierto sobre ti mismo/a al reflexionar en profundidad sobre tus acciones y pensamientos?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Puedes identificar un momento en el que tus emociones influyeron en tu toma de decisiones de una manera que no esperabas?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Qué estrategias utilizas para poder analizar más las situaciones y tomar decisiones conscientes en momentos complejos?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Cómo crees que el conocimiento de mi propio ser puede mejorar tus relaciones personales y profesionales?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Qué papel crees que juega la intuición en tu vida diaria, y cómo sabes cuándo confiar en ella?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Qué habilidades has desarrollado poder encasillar correctamente en qué situaciones debes pensar con mayor detenimiento y en qué momentos es mejor actuar en piloto automático?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Qué diferencias has notado en tu toma de decisiones cuando te tomas el tiempo para reflexionar en comparación con cuando actúas por impulso?"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿Bajo qué situaciones de tu vida has sentido presión? y por qué"
-  },
-  {
-    "seccion": "Sistema 1 y 2",
-    "pregunta": "¿En qué situaciones has actuado en piloto automático y una vez terminada la situación deseaste haber actuado de otra manera?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Qué tipo de actividades productivas sientes que son significativas para ti y por qué?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Por qué estás estudiando en la universidad? (se vale que por obligación)"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Sientes que tu elección de carrera ha sido la adecuada? ¿Cuál es el propósito de estudiar administración específicamente?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Qué has aprendido en la universidad que es valioso para ti? (más allá de la nota)"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Por qué estudiar en la universidad tiene sentido para lo que quieres hacer en tu vida?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Qué tan relevante es el trabajo en tu vida y por qué?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Cómo visualizas el trabajo que quieres tener? ¿Qué características tiene, tanto profesionales como personales?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Cuándo te sientes más satisfecho con el trabajo que haces? ¿Por qué?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Cuál es el propósito del trabajo en tu vida?"
-  },
-  {
-    "seccion": "Sentido",
-    "pregunta": "¿Cómo organizas tu tiempo para lograr los objetivos profesionales que quieres conseguir? (es válido tomárselo con calma y no organizarlo detalladamente)"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Cuál es una pequeña acción que puedes hacer hoy para cuidar tu bienestar emocional?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Qué cualidades únicas y positivas te gustaría reconocer en ti mismo/a en este momento?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Cómo te has demostrado amor propio en situaciones difíciles en el pasado?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Qué actividades o pasatiempos te hacen sentir más conectado/a contigo mismo/a?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Cuál es una afirmación positiva que puedes decirte a ti mismo/a cuando enfrentas desafíos?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Qué crees que le aportas a las personas en tus relaciones?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Qué significado tiene la autocompasión para ti y cómo practicas ser compasivo/a contigo mismo/a?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿De qué logro personal te sientes orgulloso/a?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Cómo puedes cultivar una mentalidad de gratitud hacia ti mismo/a y tus propias experiencias?"
-  },
-  {
-    "seccion": "Amor propio",
-    "pregunta": "¿Qué pasos puedes tomar para priorizar tu autocuidado en tu rutina diaria?"
-  }
+  "¿Puedes identificar un momento en el que tus emociones influyeron en tu toma de decisiones de una manera que no esperabas?",
+  "¿Cómo crees que el autoconocimiento puede mejorar tus relaciones personales y profesionales?",
+  "¿Qué papel crees que juega la intuición en tu vida diaria, y cómo sabes cuándo confiar en ella?",
+  "¿Qué diferencias has notado en tu toma de decisiones cuando te tomas el tiempo para reflexionar en comparación con cuando actúas por impulso?",
+  "¿Bajo qué situaciones de tu vida has sentido presión? y por qué",
+  "¿En qué situaciones has actuado en piloto automático y una vez terminada la situación deseaste haber actuado de otra manera?",
+  "¿Qué tipos de trabajo sientes que son significativas para ti y por qué?",
+  "¿Por qué estás cursando este programa?",
+  "¿Qué es lo más valioso que has aprendido en la universidad? (conocimientos y competencias)",
+  "¿Por qué hacer este programa tiene sentido para lo que quieres hacer en tu vida?",
+  "¿Cómo visualizas el trabajo que quieres tener? ¿Qué características tiene, tanto profesionales como personales?",
+  "¿Cuál es el propósito del trabajo en tu vida?",
+  "¿Cuál es una pequeña acción que puedes hacer hoy para cuidar tu bienestar emocional?",
+  "¿Qué cualidades únicas y positivas te gustaría reconocer en ti mismo/a en este momento?",
+  "¿Qué crees que es amor propio? ¿Cómo trabajas en tu amor propio?",
+  "¿Qué actividades o pasatiempos te hacen sentir más conectado/a contigo mismo/a?",
+  "¿Cuál es una afirmación positiva que puedes decirte a ti mismo/a cuando enfrentas desafíos?",
+  "¿Qué crees que le aportas a las personas en tus relaciones?",
+  "¿Qué significado tiene la autocompasión para ti y cómo practicas ser compasivo/a contigo mismo/a?",
+  "¿De qué logro personal te sientes orgulloso/a?",
+  "¿Qué pasos puedes tomar para priorizar tu autocuidado en tu rutina diaria?"
 ]

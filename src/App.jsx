@@ -7,7 +7,7 @@ import Next from "./assets/next.svg?react";
 import data from "./data.json";
 
 function shuffle(array) {
-  const newArray = array.map((value) => value);
+  const newArray = [...array];
   for (let i = newArray.length - 1; i > 0; i--) {
     let j = Math.floor(Math.random() * (i + 1));
     [newArray[i], newArray[j]] = [newArray[j], newArray[i]];

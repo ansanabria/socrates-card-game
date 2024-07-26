@@ -1,9 +1,8 @@
-import { useState } from "react";
 import CardFlip from "react-card-flip";
-import Troya from "../assets/troya.svg?react";
 import Cover from "../assets/cover.svg?react";
+import Troya from "../assets/troya.svg?react";
 
-function Card({ question, section, isInteractive = false, state }) {
+function Card({ question, isInteractive = false, state }) {
   const { isFlipped, setIsFlipped } = state;
 
   function handleIsFlipped() {
@@ -12,7 +11,7 @@ function Card({ question, section, isInteractive = false, state }) {
 
   return (
     <CardFlip
-      isFlipped={isInteractive ? !isFlipped: false} // Library takes isFlipped === false as the front
+      isFlipped={isInteractive ? !isFlipped : false} // Library takes isFlipped === false as the front
       flipDirection="horizontal"
       containerClassName="w-fit"
       flipSpeedBackToFront={0.5}
@@ -24,7 +23,7 @@ function Card({ question, section, isInteractive = false, state }) {
       >
         <div className="flex flex-col gap-y-5 p-3">
           <h2 className="font-noto-serif text-sm font-light uppercase tracking-widest">
-            {section}
+            Sócrates
           </h2>
           <p className="font-eb-garamond text-2xl">{question}</p>
         </div>
